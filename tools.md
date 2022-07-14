@@ -6,3 +6,4 @@
 * https://github.com/riza/linx - might, give it a try 
 * https://github.com/orwagodfather/WordList - worldists random
 * https://github.com/xnl-h4ck3r/xnLinkFinder - something related to link finding.
+* https://github.com/Sh1Yo/x8 - find hidden params
