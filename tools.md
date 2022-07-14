@@ -1,5 +1,5 @@
 * https://github.com/Sh1Yo/request_smuggler - nice quick smuggler.
-* https://github.com/fullhunt/log4j-scan - log4j scanner, kinda accurate rersults.
+* https://github.com/fullhunt/log4j-scan - log4j scanner, kinda accurate results.
 * https://github.com/projectdiscovery/mapcidr - Best for mapping CIDR :)
 * https://github.com/trickest/resolvers - Looks good, related to DNS resolvers.
 * https://github.com/zzzteph/substats - hmm, nice 
