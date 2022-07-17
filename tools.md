@@ -9,3 +9,6 @@
 * https://github.com/Sh1Yo/x8 - find hidden params
 * https://github.com/TophantTechnology/ARL - Domain/IP Asset Monitoring, Site change monitoring, Github monitoring tasks (UI based)
 * https://github.com/cunnie/sslip.io Golang based DNS server
+* https://github.com/maliciousgroup/getdirs [A simple tool to extract all possible directories from a list of URLs.]
+* https://github.com/FleexSecurity/dbns [DBNS (DataBase Nuclei Scanner) is a tool that allows you to keep track of the scans that are done with Nuclei in a simple way by saving the results in a database.]
+* 
