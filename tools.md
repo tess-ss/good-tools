@@ -11,4 +11,7 @@
 * https://github.com/cunnie/sslip.io Golang based DNS server
 * https://github.com/maliciousgroup/getdirs [A simple tool to extract all possible directories from a list of URLs.]
 * https://github.com/FleexSecurity/dbns [DBNS (DataBase Nuclei Scanner) is a tool that allows you to keep track of the scans that are done with Nuclei in a simple way by saving the results in a database.]
+* https://github.com/firefart/hijagger [check package registries for hijackable packages]
+* https://github.com/lc/subjs - fectches JavaScript
+* https://github.com/hakluke/hakcheckurl - Takes a list of URLs and returns their HTTP response codes
 * 
