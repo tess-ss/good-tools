@@ -14,4 +14,3 @@
 * https://github.com/firefart/hijagger [check package registries for hijackable packages]
 * https://github.com/lc/subjs - fectches JavaScript
 * https://github.com/hakluke/hakcheckurl - Takes a list of URLs and returns their HTTP response codes
-* 
