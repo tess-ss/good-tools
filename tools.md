@@ -17,4 +17,4 @@
 * https://github.com/tr3ss/gofetch - This could have been a bash one-liner but guess what. It's a small Go tool that lists the trending CVEs from cvetrends.com
 * https://github.com/trickest/safe-harbour - Collection of most popular world-wide domains.
 * https://github.com/notmarshmllow/Dependency-Checker - Tool to find dependcy confusion inside a repository or an entire organization on GitHub.
-* 
+* https://github.com/maliciousgroup/getdirs - get dir from a list of urls or something like that.
