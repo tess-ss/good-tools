@@ -1,3 +1,4 @@
+* https://github.com/KathanP19/Gxss - A tool to check a bunch of URLs that contain reflecting params.
 * https://github.com/taviso/rbndr - Simple DNS rebinding service.
 * https://github.com/kitabisa/mubeng - An incredibly fast proxy checker & IP rotator with ease. [written in GO]
 * https://github.com/Sh1Yo/request_smuggler - nice quick smuggler.
