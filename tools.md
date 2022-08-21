@@ -26,3 +26,10 @@
 * https://github.com/trickest/safe-harbour - Collection of most popular world-wide domains.
 * https://github.com/notmarshmllow/Dependency-Checker - Tool to find dependcy confusion inside a repository or an entire organization on GitHub.
 * https://github.com/maliciousgroup/getdirs - get dir from a list of urls or something like that.
+* https://github.com/epi052/feroxbuster - feroxbuster is a tool designed to perform Forced Browsing.
+* https://github.com/jaelesazz-project/jaeles - Jaeles is a powerful, flexible and easily extensible framework written in Go for building your own Web Application Scanner.
+* https://github.com/dwisiswant0/apkleaks - Scanning APK file for URIs, endpoints & secrets.
+* https://github.com/xnl-h4ck3r/waymore - It gets the url from wayback machine as well as from one of the index collections on index.commoncrawl.org .
+* https://github.com/sensepost/gowitness - gowitness is a website screenshot utility written in Golang, that uses Chrome Headless to generate screenshots of web interfaces using the command line
+* https://github.com/screetsec/Sudomy - Sudomy is a subdomain enumeration tool to collect subdomains and analyzing domains performing advanced automated reconnaissance (framework). 
+* https://github.com/MobSF/Mobile-Security-Framework-MobSF - Mobsf is security assessment framework capable of performing static and dynamic analysis.
