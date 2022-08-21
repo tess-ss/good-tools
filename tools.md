@@ -1,4 +1,4 @@
-* https://github.com/darkreader/darkreader - dark reader
+* https://github.com/darkreader/darkreader - Dark reader
 * https://github.com/patrickhener/goshs - SimpleHTTPServer
 * https://github.com/forcesunseen/graphquail - GraphQuail is a Burp Suite extension that offers a toolkit for testing GraphQL endpoints.
 * https://github.com/Qianlitp/crawlergo - A powerful browser crawler for web vulnerability scanners
