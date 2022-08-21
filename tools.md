@@ -1,3 +1,8 @@
+* https://github.com/darkreader/darkreader - dark reader
+* https://github.com/patrickhener/goshs - SimpleHTTPServer
+* https://github.com/forcesunseen/graphquail - GraphQuail is a Burp Suite extension that offers a toolkit for testing GraphQL endpoints.
+* https://github.com/Qianlitp/crawlergo - A powerful browser crawler for web vulnerability scanners
+* https://github.com/punk-security/dnsReaper - Subdomain takeover tool
 * https://github.com/KathanP19/Gxss - A tool to check a bunch of URLs that contain reflecting params.
 * https://github.com/taviso/rbndr - Simple DNS rebinding service.
 * https://github.com/kitabisa/mubeng - An incredibly fast proxy checker & IP rotator with ease. [written in GO]
