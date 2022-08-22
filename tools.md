@@ -33,3 +33,4 @@
 * https://github.com/sensepost/gowitness - gowitness is a website screenshot utility written in Golang, that uses Chrome Headless to generate screenshots of web interfaces using the command line
 * https://github.com/screetsec/Sudomy - Sudomy is a subdomain enumeration tool to collect subdomains and analyzing domains performing advanced automated reconnaissance (framework). 
 * https://github.com/MobSF/Mobile-Security-Framework-MobSF - Mobsf is security assessment framework capable of performing static and dynamic analysis.
+* https://github.com/hahwul/WebHackersWeapons - A list of useful tools & wordlists for bug bounty & web application penetration testing.
