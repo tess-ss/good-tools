@@ -1,3 +1,4 @@
+* https://github.com/0xZDH/BridgeKeeper - scrapes employees names and creates wordlist, osint related
 * https://github.com/darkreader/darkreader - Dark reader
 * https://github.com/patrickhener/goshs - SimpleHTTPServer
 * https://github.com/forcesunseen/graphquail - GraphQuail is a Burp Suite extension that offers a toolkit for testing GraphQL endpoints.
