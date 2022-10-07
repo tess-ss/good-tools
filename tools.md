@@ -1,3 +1,4 @@
+* https://github.com/rthalley/dnspython - a powerful DNS toolkit for python
 * https://github.com/0xZDH/BridgeKeeper - scrapes employees names and creates wordlist, osint related
 * https://github.com/darkreader/darkreader - Dark reader
 * https://github.com/patrickhener/goshs - SimpleHTTPServer
